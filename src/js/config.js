@@ -1,0 +1,1 @@
+export var apiUrl = "http://api.app.mshc.mlsco.ru/api";
